@@ -115,13 +115,9 @@ I got Susifood for the whole family, and it frees up so much time! Plus, everyth
 
 ### Contact information
 
-Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-Phone: 415-201-6370
+Address: barnawa kaduna
+Phone: 08162844475
 Email: hello@Susifood.com
-
-Social profiles: instagram, facebook, twitter [links to them not available yet]
-
-### Additional links [links not available yet]
 
 Create account
 Sign in
