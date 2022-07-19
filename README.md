@@ -1,6 +1,11 @@
 # Susifood
 Website for Susifood
 
+## Live Preview "https://susi-foods.onrender.com"
+
+## Screenshot/Preview
+  ![susi-foods](https://github.com/sanusisusi/Susi-Food-vanillaJS/blob/main/susi-foods.png)
+  
 # Programming Languages Used Here Are :
 * Javascript
 * HTML & CSS 
